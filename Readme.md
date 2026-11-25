@@ -122,6 +122,6 @@ No arquivo `package.json`, estão configurados os seguintes comandos:
 
 Projeto arquitetado, projetado e desenvolvido com excelência técnica.
 
-* **Engenharia de Software & UI/UX Design:** *[Inserir Seu Nome / Nome da Sua Empresa ou Agência]*
-* **Contato do Desenvolvedor:** *[Inserir Seu E-mail / Portfólio / LinkedIn]*
-* **Cliente Final:** *[Inserir Nome do Cliente — Técnico de Suporte Onity]*
+* **Engenharia de Software & UI/UX Design:** *[Wellerson Pinheiro / WellVisionTech]*
+* **Contato do Desenvolvedor:** *[wellerson.pinheiros@outlook.com / https://www.linkedin.com/in/wellerson-pinheiros/]*
+* **Cliente Final:** *[Dimas Jose — Técnico de Suporte Onity]*
