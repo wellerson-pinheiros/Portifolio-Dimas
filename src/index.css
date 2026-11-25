@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+/*
+  Breakpoints do projeto.
+  Mobile é a base (sem prefixo, < 768px).
+  Ultrawide (>= 1920px) NÃO é responsivo: o layout é travado na largura de 1920px.
+*/
+@theme {
+  --breakpoint-tablet: 768px;
+  --breakpoint-laptop: 1024px;
+  --breakpoint-desktop: 1440px;
+  --breakpoint-ultrawide: 1921px;
+
+  --font-display: "Outfit", ui-sans-serif, system-ui, sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  background-color: #414141;
+  color: #ffffff;
+}
